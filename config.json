@@ -1,10 +1,10 @@
 {
   "twrp_url": "git://github.com/minimal-manifest-twrp/platform_manifest_twrp_aosp.git",
   "twrp_branch": "twrp-11",
-  "git_username": "scarlet-glass",
-  "git_email": "12830544+scarlet-glass@users.noreply.github.com",
+  "git_username": "UnknownErrorCodes",
+  "git_email": "54696989+UnknownErrorCodes@users.noreply.github.com",
   "use_own_dt": true,
-  "dt_url": "zocodo/twrp_device_nubia_NX669J",
+  "dt_url": "UnknownErrorCodes/twrp_device_nubia_NX669J",
   "dt_branch": "main",
   "dt_remote": "github",
   "dt_path": "device/nubia/NX669J",
